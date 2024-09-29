@@ -7,7 +7,7 @@
 - ## About US
 
 - 🔭 We are currently working on precision agriculture satellite at JKUAT.
-
+Hardware X software X documentation
 
 
 - 🔗 [Visit our website](https://agroxsatsite.onrender.com/)
