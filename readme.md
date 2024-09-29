@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Agri X cubesat</h1>
-<h3 align="center">An Electronics and Computer engineer</h3>
+<h3 align="center">We are Engineers building a revolutionary nanosatellite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CommsJKUAT&label=Profile%20views&color=ba0bea&style=flat" alt="CommsJKUAT" /> </p>
 
