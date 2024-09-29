@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CommsJKUAT&label=Profile%20views&color=ba0bea&style=flat" alt="CommsJKUAT" /> </p>
 
 
-- ## About Me
+- ## About US
 
 - 🔭 We are currently working on precision agriculture satellite at JKUAT.
 
